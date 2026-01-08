@@ -1,0 +1,12 @@
+,weekday_mode,average_trip_duration,member_count,casual_count,min_trip_duration,max_trip_duration
+Dec,Monday,12,139996,38376,0,60
+Jan,Thursday,7,114536,24153,0,1073
+Feb,Tuesday,10,124126,27754,0,60
+Mar,Friday,14,212286,85869,0,119
+Apr,Tuesday,14,262125,109216,0,59
+May,Friday,16,319819,182637,0,59
+June,Saturday,1212,386811,292093,0,120
+July,Tuesday,18,440095,323337,0,60
+Sept,Tuesday,16,449298,265461,0,60
+Oct ,Thursday,1184,422029,224010,0,59
+Nov,Saturday,13,257479,99149,0,59
