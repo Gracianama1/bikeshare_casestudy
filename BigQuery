@@ -1,0 +1,24 @@
+--compare number of casual riders vs annual members
+SELECT 
+  casual_count,
+  member_count
+ FROM `capstoneproject-483418.bikeshare_casestudy.annual_summary`
+ ORDER BY casual_count, member_count DESC;
+
+
+--group number of casual riders by busiest day of the month
+SELECT 
+  COUNT(casual_count),
+  weekday_mode
+ FROM `capstoneproject-483418.bikeshare_casestudy.annual_summary`
+ GROUP BY weekday_mode;
+
+
+--find weekdays where the average trip duration was greater than 60 minutes
+SELECT 
+  weekday_mode,
+  average_trip_duration
+FROM
+  `capstoneproject-483418.bikeshare_casestudy.annual_summary`
+WHERE
+   average_trip_duration > 60;
