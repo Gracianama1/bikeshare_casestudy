@@ -41,7 +41,9 @@ RECOMMENDATION:
 What can Cyclistic do? 
 
 -offer tiered membership based on rider needs 
+
 -offer seasonal pass for summer riders
+
 -create promotions or free trial period leading up to summer months
 -offer discounts on winter months
 
