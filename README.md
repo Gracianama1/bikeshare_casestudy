@@ -1,6 +1,7 @@
 # bikeshare_casestudy
 Are we fully meeting the needs of our riders? 
 <img width="179" height="138" alt="logo" src="https://github.com/user-attachments/assets/3b0b770f-3aa9-4541-b622-7f4ff2ba1914" />
+
 How can we create more value to increase membership? 
 
 
