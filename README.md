@@ -10,44 +10,46 @@ How can we create more value to increase membership?
 
 The Data Shows:
 
-The busiest times of the year are in the summer months
++ The busiest times of the year are in the summer months
 
-The number of casual riders shows a lot of engagement & interest
++ The number of casual riders shows a lot of engagement & interest
 
-The winter months have the least amount of casual riders*
++ The winter months have the least amount of casual riders [^1]
 
 
 
 
 <img width="342" height="195" alt="workweek" src="https://github.com/user-attachments/assets/afde59c5-c6a3-41ab-a799-76dcb2d9af68" />
 
-Casual ridership is highest near the weekend
++ Casual ridership is highest near the weekend
 
-Member ridership is higher overall daily
++ Member ridership is higher overall daily
 
-30% use our bikes to commute to work each day*
++ 30% use our bikes to commute to work each day [^1]
 
 
 <img width="342" height="195" alt="weekday_casuals" src="https://github.com/user-attachments/assets/cec81ace-defc-4bdf-a7d8-e934b979b01c" />
 
 What does it all mean?:
 
-Casual riders may not see a benefit to paying for a membership
++ Casual riders may not see a benefit to paying for a membership
 
-Limited options deter them from subscribing annually
++ Limited options deter them from subscribing annually
 
 RECOMMENDATION:
 
 What can Cyclistic do? 
 
--offer tiered membership based on rider needs 
+- offer tiered membership based on rider needs 
 
--offer seasonal pass for summer riders
+- offer seasonal pass for summer riders
 
--create promotions or free trial period leading up to summer months
--offer discounts on winter months
+- create promotions or free trial period leading up to summer months
+
+- offer discounts on winter months
 
 
-*data has been made available by Motivate International Inc. under license
+
+[^1]: data has been made available by Motivate International Inc. under license
 
 
